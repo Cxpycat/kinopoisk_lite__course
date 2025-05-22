@@ -51,9 +51,3 @@ composer install
 ```shell
 ln -s $PWD/storage $PWD/public/storage
 ```
-
-#### Windows
-
-```shell
-mklink /D storage public/storage
-```
